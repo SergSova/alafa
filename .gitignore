@@ -1,19 +1,13 @@
-.idea
-media
-media/*
-resources
-resources/*
-system
-system/*
-upload
-upload/*
-js
-js/*
-css
-css/*
+*
+!.gitignore
 
-application/third_party
-application/third_party/*
+!application/views/user
+!application/views/user/*
 
-application/helpers
-application/helpers/*
+!application/config
+!application/config/*
+
+!media/css/user
+!media/css/user/*
+
+!index.php
