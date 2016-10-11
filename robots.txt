@@ -1,0 +1,3 @@
+User-agent: *
+Allow:
+Sitemap: httð://alafa.com.ua/634765_28.xml
